@@ -1,0 +1,14 @@
+{
+  "id": "20260801-001503-9a977e",
+  "updated_at": "2026-08-01T00:15:51",
+  "messages": [
+    {
+      "role": "user",
+      "content": "salut"
+    },
+    {
+      "role": "assistant",
+      "content": "Bonjour ! Comment puis-je vous aider aujourd'hui ?"
+    }
+  ]
+}

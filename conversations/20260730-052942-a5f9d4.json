@@ -1,0 +1,36 @@
+{
+  "id": "20260730-052942-a5f9d4",
+  "updated_at": "2026-08-01T00:07:26",
+  "messages": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": [
+        {
+          "text": "hi",
+          "type": "text"
+        }
+      ],
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": [
+        {
+          "text": "Bonjour ! Comment puis-je vous aider aujourd'hui ?",
+          "type": "text"
+        }
+      ],
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Bonjour ! Comment puis-je vous aider aujourd'hui ?"
+    }
+  ]
+}

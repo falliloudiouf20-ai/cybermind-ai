@@ -51,11 +51,7 @@ It is also part of my cybersecurity engineering portfolio.
 
 ## 📸 Preview
 
-*(Screenshot coming soon)*
-
-```text
-screenshots/cybermind-ai-interface.png
-```
+![CyberMind AI Interface](screenshots/cybermind-ai-interface.png)
 
 ---
 

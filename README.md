@@ -1,35 +1,106 @@
+![Status](https://img.shields.io/badge/status-under_development-green)
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Ollama](https://img.shields.io/badge/Ollama-Local-black)
 # 🛡️ CyberMind AI
 
-CyberMind AI is a local artificial intelligence assistant designed to help users learn about Linux, computing and defensive cybersecurity.
+> **⚠️ Project Status:** This project is currently under active development. New features, improvements and optimizations are continuously being added.
 
-The application runs locally with Ollama and uses the Qwen 2.5 language model. It includes a web interface inspired by modern AI assistants, persistent conversation history, model selection and dark or light themes.
+CyberMind AI is a local artificial intelligence assistant designed for Linux and defensive cybersecurity.
 
-> All AI processing is performed locally. No cloud API key is required.
+The goal of this project is to build a modern AI assistant capable of running entirely on a local machine using Ollama and open-source language models, without relying on external cloud AI services.
+
+The application combines artificial intelligence, Linux, Python and cybersecurity into a single desktop assistant focused on learning, system administration and defensive security.
+
+---
+
+## 🚧 Development Status
+
+CyberMind AI is **still under development**.
+
+The current version already includes:
+
+- ✅ Local AI powered by Ollama
+- ✅ Qwen 2.5 integration
+- ✅ Modern web interface
+- ✅ Persistent conversation history
+- ✅ Conversation management
+- ✅ Local configuration system
+- ✅ Multiple model selection
+- ✅ Dark and Light themes
+
+Several advanced features are planned for future releases.
+
+---
+
+## 🎯 Project Goals
+
+This project aims to demonstrate practical skills in:
+
+- Artificial Intelligence
+- Python Development
+- Linux
+- Cybersecurity
+- REST APIs
+- Software Architecture
+- Git & GitHub
+
+It is also part of my cybersecurity engineering portfolio.
 
 ---
 
 ## 📸 Preview
 
-Add your main application screenshot here:
+*(Screenshot coming soon)*
 
-```markdown
-![CyberMind AI Interface](screenshots/cybermind-ai-interface.png)
-cd ~/cybermind-ai
-
-cat > README.md <<'EOF'
-# 🛡️ CyberMind AI
-
-CyberMind AI is a local artificial intelligence assistant designed to help users learn about Linux, computing and defensive cybersecurity.
-
-The application runs locally with Ollama and uses the Qwen 2.5 language model. It includes a web interface inspired by modern AI assistants, persistent conversation history, model selection and dark or light themes.
-
-> All AI processing is performed locally. No cloud API key is required.
+```text
+screenshots/cybermind-ai-interface.png
+```
 
 ---
 
-## 📸 Preview
+## ✨ Current Features
 
-Add your main application screenshot here:
+- Local AI assistant
+- Ollama integration
+- Qwen 2.5 models
+- Modern cyber-inspired interface
+- Persistent conversations
+- Multiple conversation management
+- Local configuration
+- Dark / Light mode
+- Responsive design
+- 100% local execution
 
-```markdown
-![CyberMind AI Interface](screenshots/cybermind-ai-interface.png)
+---
+
+## 🚀 Planned Features
+
+The following features are planned for future versions:
+
+- PDF analysis
+- Folder analysis
+- File analysis
+- Malware explanation
+- Log analysis
+- Report generation
+- Streaming responses
+- Better UI animations
+- Plugin architecture
+- RAG support
+- Voice interaction
+- Multi-language support
+
+---
+
+## ⚙️ Technologies
+
+- Python
+- Ollama
+- Qwen 2.5
+- Gradio
+- HTML
+- CSS
+- JavaScript
+- JSON
+- Linux
